@@ -1,3 +1,3 @@
-# network-scanner--cli-
-scans IP ranges , detects open ports
+# Artificial Intelligence
+Machine Learning Engineer
 This is my first edit on Github!
